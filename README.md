@@ -1,6 +1,9 @@
 # Photon color scheme for Sublime Text
 
-Light and dark color schemes for Sublime Text. Based on the new Firefox Dev Tools Photon color scheme. 
+Light and dark color schemes for Sublime Text. Based on the new Firefox Dev Tools Photon color scheme.
+
+![](./preview-light.png)
+![](./preview-dark.png)
 
 ## Install
 
