@@ -2,6 +2,8 @@
 
 Light and dark color schemes for Sublime Text. Based on the new Firefox Dev Tools Photon color scheme.
 
+## Previews
+
 ![](./preview-light.png)
 ![](./preview-dark.png)
 
